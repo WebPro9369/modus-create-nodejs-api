@@ -1,0 +1,21 @@
+{
+  "name": "modus-create-node-api",
+  "version": "1.0.0",
+  "description": "A simple API that calls a \"backend\" api to get information about crash test ratings for vehicles.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "API",
+    "crash",
+    "vehicles"
+  ],
+  "author": "Reo <liudev555@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "latest",
+    "body-parser": "latest",
+    "express": "latest"
+  }
+}
